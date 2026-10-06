@@ -2,7 +2,7 @@
 
 ComicGenarator is an AI-powered tool that automatically converts raw story text (TXT, PDF, DOCX) into a fully formatted, multi-page graphic novel. It utilizes advanced AI models (like Gemini) to structure stories into scripts, design consistent characters, and render dynamic comic pages complete with dialogue.
 
-## What Happens When You Click "Run" (Basic Software Behavior)
+## Software Behavior
 
 Once you select your story document and initiate the generation process (either via the GUI or by running `comic_gen_backend.py`), the software executes the following pipeline:
 
@@ -17,6 +17,8 @@ Once you select your story document and initiate the generation process (either 
 5. **Page Assembly & PDF Export:**
    - The rendered panel images are assembled into full-page layouts and saved in the output directory.
    - Finally, all generated pages are compiled into a final graphic novel PDF (`MyGraphicNovel.pdf`).
+   - A page in the resulting comic book could look like:
+     <img width="516" height="640" alt="image" src="https://github.com/user-attachments/assets/d904f010-04c4-4206-a8fa-09d3d5b02f6f" />
 
 ## Writing Your Story Description
 
