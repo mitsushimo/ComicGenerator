@@ -18,7 +18,8 @@ Once you select your story document and initiate the generation process (either 
    - The rendered panel images are assembled into full-page layouts and saved in the output directory.
    - Finally, all generated pages are compiled into a final graphic novel PDF (`MyGraphicNovel.pdf`).
    - A page in the resulting comic book could look like:
-     <img width="516" height="640" alt="image" src="https://github.com/user-attachments/assets/d904f010-04c4-4206-a8fa-09d3d5b02f6f" />
+     
+<img width="516" height="640" alt="image" src="https://github.com/user-attachments/assets/d904f010-04c4-4206-a8fa-09d3d5b02f6f" />
 
 ## Writing Your Story Description
 
